@@ -1,11 +1,6 @@
 # Spatial-Econometrics
 Effect of Etihad Stadium on House Prices in Manchester
 
- 
-Candidate number: 39758
-
-GY460 - Techniques of Spatial Economic Analysis
-Words: 4659
 
 
 Analysis of the Impact of Sports Arenas on House Prices Using Spatial Econometrics: Case of Etihad Stadium in Manchester
